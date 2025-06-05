@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, I'm Mugema Francis Ryan
 
 <!--
 **Mugema/Mugema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-I love problem solving and the tools i use are kotlin, jetpack compose
+-I am adding Go to toolBox
+-Ahh yes i do enjoy playing video games 😄 
+
+
